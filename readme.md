@@ -96,7 +96,7 @@ jupyter notebook
 Thanks to all team members who contributed to this analysis project!
 
 ## License
-[Insert License Information]
+MIT License
 
 ---
 *Note: This project was completed as part of IE6400 Foundations Data Analytics Engineering course at Northeastern University.*
