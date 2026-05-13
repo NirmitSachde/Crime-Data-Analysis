@@ -1,4 +1,4 @@
-# Crime Data Analysis Project 📊
+# Crime Data Analysis Project
 
 ## Overview
 This project analyzes crime data in Los Angeles from 2020 to present (2023), focusing on trends, patterns, and factors influencing crime rates. The analysis includes data cleaning, exploratory data analysis, and predictive modeling using Prophet.
