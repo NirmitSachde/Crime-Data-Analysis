@@ -70,12 +70,6 @@ Prophet Model Metrics:
 3. Demographic Distribution Charts
 4. Economic Correlation Plots
 
-## Future Work
-- Integration of additional demographic factors
-- Enhanced predictive modeling
-- Real-time data integration capabilities
-- Deeper analysis of specific crime categories
-
 ## Installation and Usage
 1. Clone the repository
 ```bash
